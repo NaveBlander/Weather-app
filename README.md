@@ -12,7 +12,7 @@ To run this application, you need to have Node.js installed on your machine. You
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/NaveBlander/Weather-app)
     ```
 
 2. Navigate to the project directory.
