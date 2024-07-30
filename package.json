@@ -8,8 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is a simple weather application that provides weather information for a specified address. It uses geocoding to convert the address into geographic coordinates (latitude and longitude) and then fetches the weather forecast for those coordinates.",
   "dependencies": {
+    "express": "^4.19.2",
     "postman-request": "^2.88.1-postman.34"
   }
 }
